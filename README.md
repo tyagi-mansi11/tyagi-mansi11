@@ -1,4 +1,4 @@
-# <center> Mᴀɴsɪ Tʏᴀɢɪ </center>
+# Mᴀɴsɪ Tʏᴀɢɪ
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+the+Systems+Behind+the+Data" alt="Data Engineer | Building the Systems Behind the Data" />
 </h2>
@@ -23,7 +23,7 @@
 
 ## Let's Connect!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyagimansi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tyagimansi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansityagi909@gmail.com) 
 
 
