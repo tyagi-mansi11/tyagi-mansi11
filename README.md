@@ -1,26 +1,33 @@
-# Hi there! 👋
-Welcome to my GitHub profile! <br>
-I'm Mansi, and it's great to have you here. Feel free to explore my work!
+# <center> Mᴀɴsɪ Tʏᴀɢɪ </center>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+the+Systems+Behind+the+Data" alt="Data Engineer | Building the Systems Behind the Data" />
+</h2>
 
-## About Me
-👩‍💻 Graduated with B.tech in Information Technology <br>
-🌱 Becoming skilled at analyzing data <br>
-📧 Reach out to me at mansityagi909@gmail.com  
+⚙️ Building automated ETL data pipelines and cloud-based integrations that power business reporting, analytics, and operational decision making. <br>
+👩‍💻 Graduated with a B.Tech in Information Technology <br>
+
 
 ## Skills
-![Excel](https://img.shields.io/badge/Excel-3D7B47?style=for-the-badge)
-![My SQL](https://img.shields.io/badge/MySQL-00a1c3?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-f6c653?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-003f99?style=for-the-badge)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloudrun&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud_Scheduler-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ## Let's Connect!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyagimansi/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansityagi909@gmail.com) 
 
 
 ## ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)   <br>
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
